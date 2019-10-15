@@ -1,4 +1,3 @@
-using namespace std;
 class Container {
     protected:
         Sort* sort_function;
