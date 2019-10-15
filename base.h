@@ -6,7 +6,7 @@
 #include <math.h>
 #include <string>
 
-using namespace std;
+//using namespace std;
 
 // forward declare to avoid circular dependencies
 class Iterator;
